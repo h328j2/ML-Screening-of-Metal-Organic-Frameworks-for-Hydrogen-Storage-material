@@ -1,0 +1,8 @@
+name,reason,void_fraction,lcd,pld,y2,y100,dc_raw,topology,cif_path,pred_dc,pred_dc_std
+hMOF-3001840,suspected label error (batch 3001),0.905058,22.75,19.75,2.46365,8.64831,6.184660000000001,dia,/tmp/hMOF_data/hMOF-3001840.cif,,
+hMOF-3001604,suspected label error (batch 3001),0.904471,22.25,19.25,3.39807,8.1132,4.71513,dia,/tmp/hMOF_data/hMOF-3001604.cif,,
+hMOF-7001666,suspected label error (other batch),0.626657,9.25,7.25,7.64004,9.46953,1.8294900000000007,hex,/tmp/hMOF_data/hMOF-7001666.cif,,
+hMOF-3001465,"control (same batch, normal label)",0.905135,23.25,20.75,3.28561,43.0899,39.80429,unknown,/tmp/hMOF_data/hMOF-3001465.cif,,
+hMOF-5033225,top predicted DC (test set),0.908819,13.75,11.75,6.67227,55.767,49.094730000000006,pcu,/tmp/hMOF_data/hMOF-5033225.cif,47.635166,0.20426475
+hMOF-5057284,top predicted DC (test set),0.911857,13.75,9.75,7.67207,55.4259,47.75383,pcu,/tmp/hMOF_data/hMOF-5057284.cif,47.528763,0.38854605
+hMOF-5061451,top predicted DC (test set),0.884167,14.25,13.25,4.4049,51.5631,47.1582,pcu,/tmp/hMOF_data/hMOF-5061451.cif,47.51459,0.039452266
